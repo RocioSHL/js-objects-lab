@@ -5,4 +5,5 @@ const aCar = {
   };
   
   console.log(aCar.owner);
+  console.log(aCar.owner);
   
