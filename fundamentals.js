@@ -7,8 +7,9 @@ const aCar = {
     type :{make : 'Toyota',model:'Corolla', cc:1.8} ,
     registration : {year:'201',countycode:'WD',number:'1058'}
   };
-  aCar.mileage = 1000
-  aCar.color = {
+
+     aCar.mileage = 1000
+    aCar.color = {
 
     exterior : 'red',
     interior : {texture:'leather',shade:'black'}
